@@ -1,0 +1,4 @@
+[project]
+name = "geometric_calculator"
+version = "0.1.0"
+description = "Library for work with shapes"
